@@ -1,6 +1,0 @@
-Escrever dados em arquivo é muito fácil.
-Podemos colocar quantas linhas quisermos.
-Esta é a última linha.
-Sem chamar a função novamente.
-Sem chamar a função novamente.
-Sem chamar a função novamente.
