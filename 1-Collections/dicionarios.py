@@ -82,7 +82,7 @@ print(dNew2)
 
 ###
 # Método get
-# - Podemos acessaros elementos de um dicionários
+# - Podemos acessar os elementos de um dicionários
 # - Dicionários não são indexados
 ###
 

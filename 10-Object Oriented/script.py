@@ -249,7 +249,7 @@ print(p2.peso)
 
 # Deletando atributos dinâmicos
 print(p2.__dict__)
-
+print("EAE")
 del p2.peso
 print(p2.__dict__)
 

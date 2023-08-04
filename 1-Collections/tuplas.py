@@ -97,7 +97,7 @@ print(tupla10.count('a'))
 
 ########################################################################### DICAS NA UTILIZAÇÃO DE TUPLAS ###############################################################################
 
-# Devemos utilizar tuplas sempre que não precisarmos modificar os dados contidos em uma coleção
+# Devemos utilizar tuplas sempre que não precisamos modificar os dados contidos em uma coleção
 # Exemplo 1
 meses = ('Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
          'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro')

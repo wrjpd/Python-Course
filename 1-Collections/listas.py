@@ -10,7 +10,6 @@ MÉTODOS E PROPRIEDADES:
 
 São representadas por []
 Listas em python funcionam como vetores/matrizes(arrays) em outras linguagens, com a diferença de serem DINÂMICAS e também de podermos colocar QUALQUER tipo de dado. 
-Listas em python funcionam como vetores/matrizes(arrays) em outras linguagens, com a diferença de serem DINÂMICAS e também de podermos colocar QUALQUER tipo de dado. 
 
 Linguagens C/JAVA: Arrays
     -Possuem tamanho e tipo de dado fixo;
@@ -115,7 +114,7 @@ print(lista6)
 # Método pop
 # -Podemos remover o último elemento de uma lista
 # -OBS:
-#   o pop não remove, como retorna o último elemento
+#   o pop não só remove, como retorna o último elemento
 ###
 
 print(lista5)
@@ -192,7 +191,7 @@ print(cores[0])  # indice
 
 
 # Gerar indice em for
-
+print("indice for")
 cores2 = list(enumerate(cores))
 print(cores2)
 print(type(cores2))
